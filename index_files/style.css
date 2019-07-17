@@ -70,10 +70,10 @@ body {
 }
 
 .container {
-  margin: 0 auto;
-  max-width: 740px;
-  padding: 0 10px;
-  width: 100%;
+    margin: 0 auto;
+    max-width: 2400px;
+    padding: 0 10px;
+    width: 30%;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -177,8 +177,9 @@ img {
 
 .clearfix:before,
 .clearfix:after {
-  content: " ";
-  display: table;
+    content: " ";
+    clear:both;
+    display: grid;
 }
 
 .clearfix:after {
@@ -195,6 +196,12 @@ img {
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid #eee;
+}
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+  grid-auto-rows: minmax(100px, auto);
 }
 @media screen and (max-width: 640px) {
   .masthead {

@@ -71,7 +71,7 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a class="navbar-brand active" href="./index.html" id="home">Meisam's Blog</a>
+                        <a class="navbar-brand active" href="./" id="home">Meisam's Blog</a>
                     </div>
                     <!--normal header-->
                     <div class="navbar-collapse collapse">
@@ -92,8 +92,9 @@
 <style>
 </style>
 
+
 <h2>Data Science</h2>
-    
+
 <a href="./projects/bikesharing/data_pre_processing.html">
 <div class="post">
 <img style="width:90%; height: 90%; margin-left: 5%; margin-top: 5%; margin-bottom: 5%;" src="projects/bikesharing/pandas.jpg">
@@ -101,38 +102,6 @@
 </div>
 </a>
 
-<a href="https://www.uib.no/sites/w3.uib.no/files/w2/as/ashraf_1.jpg">
-<div class="post">
-<img style="width:90%; height: 90%; margin-left: 5%; margin-top: 5%; margin-bottom: 10%;" src="projects/patterns/leopard.jpg">
-  <h3 style="margin-top:0px; font-size:95%;">Patterns In Nature</h3>
-  <h4> Patterns as solutions to PDEs!</h4>
-<h4 style="margin-top:8px;"><i>On UiB </i></h4>
-</div>
-</a>
-
-<a href="./projects/bikesharing/Predicting_bike_sharing_data.html">
-<div class="post">
-<img style="width:90%; height: 90%; margin-left: 5%; margin-top: 5%; margin-bottom:10%;" src="projects/ISS/iss.webp">
-<h3 style="margin-top:0px; font-size:95%;">International Space Station</h3>
-<h4>Orbit propagator!</h4>
-<h4 style="margin-top:8px;"><i>An ICARUS  Project</i></h4>
-</div>
-</a>
-
-<a href="./projects/bikesharing/Predicting_bike_sharing_data.html">
-<div class="post">
-<img style="width:90%; height: 90%; margin-left: 5%; margin-top: 5%; margin-bottom: 10%;" src="projects/pv/Solar_cell.png">
-  <h3 style="margin-top:0px; font-size:95%;">Solar Insolation</h3>
-  <h4> Patterns as solutions to PDEs!</h4>
-<h4 style="margin-top:8px;"><i>On UiB </i></h4>
-</div>
-</a>
-
-
-<br style="clear:left;">
-<h2>Deep Learning</h2>
-<br>
-  
 <a href="./projects/bikesharing/Predicting_bike_sharing_data.html">
 <div class="post">
 <img style="width:90%; height: 90%; margin-left: 5%; margin-top: 5%; margin-bottom: 5%;" src="projects/bikesharing/bike.png">
@@ -142,26 +111,12 @@
 </div>
 </a>
 
-
-<a href="./projects/styletransfer/style_transfer.html">
+<a href="https://www.uib.no/sites/w3.uib.no/files/w2/as/ashraf_1.jpg">
 <div class="post">
-<img style="width:100%; height: 100%; margin-left: 0%; margin-top: 8%; margin-bottom: 8%;" src="projects/styletransfer/sara.png">
-  <h3 style="margin-top:0px; font-size:95%;">Style Transfer</h3>
-  <h4> Convolutional neural network art!</h4>
-<h4 style="margin-top:8px;"><i>A UDACITY project </i></h4>
-</div>
-</a>
-
-<br style="clear:left;">
-<h2>IOT</h2>
-<br>
-  
-<a href="./projects/bikesharing/Predicting_bike_sharing_data.html">
-<div class="post">
-<img style="width:90%; height: 90%; margin-left: 5%; margin-top: 5%; margin-bottom: 5%;" src="projects/ISS/iss.webp">
-<h3 style="margin-top:0px; font-size:95%;">International Space Station</h3>
-<h4>Orbit propagator!</h4>
-<h4 style="margin-top:8px;"><i>A UDACITY Project</i></h4>
+<img style="width:100%; height: 100%; margin-left: 0%; margin-top: 8%; margin-bottom: 8%;" src="images/gsdetail.jpg">
+  <h3 style="margin-top:0px; font-size:95%;">Patterns In Nature</h3>
+  <h4> Patterns as solutions to PDEs!</h4>
+<h4 style="margin-top:8px;"><i>On UiB </i></h4>
 </div>
 </a>
 
